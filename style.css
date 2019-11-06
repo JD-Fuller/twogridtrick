@@ -6,8 +6,9 @@
   background: #E5E5E5;
 }
 
-h1, p{
+h1 {
   text-align: center;
+  padding: 5pt 0 0 0;
 }
 .card-white {
   background: white;
@@ -15,4 +16,9 @@ h1, p{
   box-shadow: 1px 1px 2px #e7e7e7;
   border-radius: 4px;
   margin: 20px 50px;
+  height: 15rem;
+}
+
+p {
+  text-align: center;
 }
