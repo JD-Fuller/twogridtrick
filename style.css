@@ -2,7 +2,13 @@
   background: #3079AB;
   color: white;
 }
+.bg-grey {
+  background: #E5E5E5;
+}
 
+h1, p{
+  text-align: center;
+}
 .card-white {
   background: white;
   padding: 30px;
